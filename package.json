@@ -1,0 +1,27 @@
+{
+  "name": "lyric-finder",
+  "dependencies": {
+    "lodash": "0.4.2",
+    "google": "0.0.2",
+    "url": "0.7.9",
+    "jsdom": "0.2.14"
+  },
+  "version": "0.0.1",
+  "description": "Get lyric from google as library",
+  "keywords" : ["google", "search", "lyric", "scraper", "screen", "lyric-finder"],
+  "directories": {
+      "lib": "lib"
+  },
+  "main": "./lyric-finder.js",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/nazt/lyric-finder.git"
+  },
+  "homepage" : [ "https://github.com/nazt/lyric-finder" ],
+  "author": "Nat Weerawan <nat.wrw@gmail.com> (http://www.together.in.th/)"
+}
