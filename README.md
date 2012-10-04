@@ -1,3 +1,3 @@
 #WHAT THIS?
 
-Lyric-finder as library used by [node-lyric](https://github.com/NAzT/node-lyric)
+Lyric-finder is node-lyric as nodejs library used by [node-lyric](https://github.com/NAzT/node-lyric)
