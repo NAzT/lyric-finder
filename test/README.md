@@ -1,4 +1,4 @@
-# lyric-finder [![Build Status](https://secure.travis-ci.org/nazt/lyric-finder.png?branch=master)](http://travis-ci.org/nazt/lyric-finder)
+# lyric-finder [![Build Status](https://secure.travis-ci.org/nat/lyric-finder.png?branch=master)](http://travis-ci.org/nat/lyric-finder)
 
 The best project ever.
 

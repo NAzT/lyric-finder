@@ -1,39 +1,31 @@
 {
   "name": "lyric-finder",
-  "description": "Get lyric from google as library",
+  "description": "The best project ever.",
   "version": "0.0.2",
-  "homepage": "https://github.com/nazt/lyric-finder",
+  "homepage": "https://github.com/nat/lyric-finder",
   "author": {
     "name": "Nat",
     "email": "nat.wrw@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nazt/lyric-finder.git"
+    "url": "git://github.com/nat/lyric-finder.git"
   },
   "bugs": {
-    "url": "https://github.com/nazt/lyric-finder/issues"
+    "url": "https://github.com/nat/lyric-finder/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/nazt/lyric-finder/blob/master/LICENSE-MIT"
+      "url": "https://github.com/nat/lyric-finder/blob/master/LICENSE-MIT"
     }
   ],
-  "directories": { "lib": "lib" },
-  "keywords" : ["google", "search", "lyric", "scraper", "screen", "lyric-finder"],
-  "main": ".lib/lyric-finder.js",
+  "main": "lib/lyric-finder",
   "engines": {
     "node": ">= 0.8.0"
   },
   "scripts": {
     "test": "grunt simplemocha"
-  },
-  "dependencies": {
-    "lodash": "0.4.2",
-    "google": "0.0.2",
-    "url": "0.7.9",
-    "jsdom": "0.2.14"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4",
@@ -43,6 +35,5 @@
     "grunt-simple-mocha": "~0.4.0",
     "expectations": "~0.2.5"
   },
-
   "keywords": []
 }
